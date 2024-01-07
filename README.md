@@ -20,4 +20,4 @@
   <a href="https://www.instagram.com/david_agst/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/devlmdavid/devlmdavid/blob/main/cobrinha_darkmode.svg)
+![snake gif](https://github.com/devlmdavid/devlmdavid/blob/output/github-contribution-grid-snake.svg)
