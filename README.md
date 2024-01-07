@@ -6,6 +6,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=devlmdavid&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/devlmdavid/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlmdavid&theme=tokyonight&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/devlmdavid/github-readme-stats)
 
+<br>
+
 <div align="center" style="display: inline_block">
 <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
