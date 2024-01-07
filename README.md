@@ -1,5 +1,6 @@
-### Bem vindos ao meu perfil! 
-##### Meu nome é David estou em transição para a área de programação. Atualmente, faço um curso intensivo de desenvolvimento full stack, no qual estou aprimorando minhas habilidades e conhecimentos técnicos, estando animado para aplicar esse conhecimento em projetos práticos e desafiadores.
+### Bem vindos ao meu perfil! 👋🏻
+
+##### 😶‍🌫️ Meu nome é David estou em transição para a área de programação. Atualmente, faço um curso intensivo de desenvolvimento full stack, no qual estou aprimorando minhas habilidades e conhecimentos técnicos, estando animado para aplicar esse conhecimento em projetos práticos e desafiadores. 😃
 
 <br>
 
