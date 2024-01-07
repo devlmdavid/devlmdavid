@@ -22,4 +22,3 @@
 
 ![snake animation](https://github.com/devlmdavid/devlmdavid/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=devlmdavid&repo=devlmdavid&theme=react)](https://github.com/devlmdavid/devlmdavid)
