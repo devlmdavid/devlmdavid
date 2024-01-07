@@ -4,7 +4,7 @@
 <br>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=devlmdavid&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/devlmdavid/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlmdavid&theme=tokyonight&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/rafael-sobrinho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlmdavid&theme=tokyonight&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/devlmdavid/github-readme-stats)
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -19,5 +19,3 @@
   <a href="mailto:david.lm.augusto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/david_agst/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/devlmdavid/devlmdavid/blob/output/github-contribution-grid-snake.svg)
